@@ -1,2 +1,2 @@
-THis Is new added file
+ Is new added file
 committedd...
